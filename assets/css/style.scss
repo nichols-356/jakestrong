@@ -10,7 +10,6 @@ $header-bg-color-secondary: #decf02 !default;
 $section-headings-color: #c23310 !default;
 // Borders
 $border-color: #decf02 !default;
-$table-border-color: #decf02 !default;
 $hr-border-color: #c23310 !default;
 
 // import defaults
@@ -20,7 +19,7 @@ $hr-border-color: #c23310 !default;
 .page-header {
   color: $header-heading-color;
   color: rgba(255, 255, 255, 0.75);
-  background-image: url("../../jakey-kayak.jpg");
+  background-image: url("../img/jakey-kayak.jpg");
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
