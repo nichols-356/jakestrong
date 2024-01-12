@@ -24,4 +24,4 @@ A celebration of Jacob's remarkable life will be held once the weather warms up,
 
 Jake and Sasha             |  Jake can fly!
 :-------------------------:|:-------------------------:
-![Jake and Sasha enjoying their time together, taking in all the wonders of nature.](jake-and-sasha.jpg)  |  ![Jake smiling as he shares a unique flying experience with his family.](jakey-fly.jpg)
+![Jake and Sasha enjoying their time together, taking in all the wonders of nature.](assets/img/jake-and-sasha.jpg)  |  ![Jake smiling as he shares a unique flying experience with his family.](assets/img/jakey-fly.jpg)
