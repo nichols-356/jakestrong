@@ -1,4 +1,4 @@
-# [iWill.](http://iwill.rememberjacobnichols.com)RememberJacobNichols.com
+# RememberJacobNichols.com
 
 In Loving Memory of Jacob Eugene Nichols
 
