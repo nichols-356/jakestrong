@@ -1,6 +1,4 @@
-# RememberJacobNichols.com
-
-In Loving Memory of Jacob Eugene Nichols
+# In Loving Memory of Jacob Eugene Nichols
 
 *November 12th, 1979 - January 10th, 2024*
 
