@@ -20,7 +20,7 @@ Jacob's last wishes were for everyone to have their own relationship with Jesus 
 
 As we bid farewell to this extraordinary soul, let us remember Jacob not with tears, but with smiles, for his laughter lives on in the echoes of our shared memories. May his spirit find eternal peace and joy in the loving embrace of God, surrounded by friends and family in the heavenly realms.
 
-A celebration of Jacob's remarkable life will be held once the weather warms up, date still to be determined. In honoring his memory, let us come together to share stories, laughter, and perhaps a dance or two, just as Jacob would have wished. Details will be shared with friends and family in a month or two. To ensure that you receive these details when they are ready, please [provide your contact information to his family](https://docs.google.com/forms/d/e/1FAIpQLSdGfF1exBj1-pyfR1NSZZ-LaijsG2gDjNFeX1x0ldiT0xNEkg/viewform?usp=sf_link).
+A celebration of Jacob's remarkable life was held in the Spring of 2024. We honored his memory by coming together to share stories, laughter, and a dance or two, just as Jacob would have wished.
 
 Jake and Sasha             |  Jake can fly!
 :-------------------------:|:-------------------------:
